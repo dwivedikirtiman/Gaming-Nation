@@ -186,15 +186,15 @@ there are many features in this project, kindly run the project locally in your 
 
 ## 🧩 Future Improvements(Optional/Suggestions)
 
-- 🔹 Add advanced product filtering for better user experience.
+🔹 Add advanced product filtering for better user experience.
 
-- 🔹 Implement a live chat support feature for customer queries.
+🔹 Implement a live chat support feature for customer queries.
 
-- 🔹 Integrate a real-world payment gateway like Razorpay or Stripe.
+🔹 Integrate a real-world payment gateway like Razorpay or Stripe.
 
-- 🔹 Introduce user reviews and ratings for products.
+🔹 Introduce user reviews and ratings for products.
 
-- 🔹 Add order tracking functionality for customer convenience.
+🔹 Add order tracking functionality for customer convenience.
 
 
 ## 🤝 Contribution
