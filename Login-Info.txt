@@ -1,0 +1,17 @@
+# Gaming Nation's Detail for Admin login panel
+
+This project built with framework Codeigniter 3 and MySql
+
+Login with admin role:
+
+First Admin I've created is as follows:
+
+email: admin@garena.com
+password : admin
+
+
+Second Admin I've created is as follows:
+
+email: kirtiman@gmail.com
+password : kirtiman123
+
